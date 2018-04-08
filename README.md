@@ -12,3 +12,5 @@
     ```git clone https://github.com/olaven/learn-mongoDB.git && cd learn-mongoDB```
     ```mongod dbpath db/```
     new terminal window: ```mongo```
+
+__Running into mistakes? Submit an issue__🐕 
